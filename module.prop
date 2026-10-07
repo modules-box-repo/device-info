@@ -1,0 +1,10 @@
+id=device-info
+name=Device Info
+icon=icon.jpg
+description=A simple tool for viewing device information.
+author=YasserNull
+version=v1.0.0
+versionCode=1
+repository=https://github.com/modules-box-repo/device-info
+install=setup.sh
+permission=default
